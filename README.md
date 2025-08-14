@@ -1,7 +1,7 @@
 # MPhil-Thesis-Learning-Non-Parametric-Structural-Decompositions-in-Gaussian-Processes
 GitHub repository for my MPhil thesis, "Learning Non-Parametric Structural Decompositions in Gaussian Processes", based on the codebase the paper "Additive Gaussian Processes Revisited" (Lu et al. (2022)): https://github.com/amzn/orthogonal-additive-gaussian-processes
 
-This code serves as visualisations for understanding the unconstrained additive GP and OAK models, using the codebase from the paper "Additive Gaussian Processes Revisited" (Lu et al. (2022)): https://github.com/amzn/orthogonal-additive-gaussian-processes.
+This code serves as visualisations for understanding the unconstrained additive GP and OAK models, using the codebase from the paper "Additive Gaussian Processes Revisited" (Lu et al. (2022)): https://github.com/amzn/orthogonal-additive-gaussian-processes. For these files to run without error, it is assumed they are located within the "orthogonal-additive-gaussian-processes" file from the mentioned codebase. Trivial changes to imports.py can modify this assumption.
 
 ## Contents
 The code for generating the models and visualisations used throughout my thesis, categorised by relevant chapter and order of appearance.
